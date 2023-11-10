@@ -1,1 +1,2 @@
 # India-Census-2011
+The 2011 census of India or the 15th Indian census was conducted in two phases, house listing and population enumeration. The House listing phase began on 1 April 2010 and involved the collection of information about all buildings. Here I Had creted a SQL (Structured Query Language) on this Data to know insight about population, regarding Liteacy rate accoring to state wise and i also analyzed  Schedule case accoring to gender wise and many more insights.
